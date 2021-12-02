@@ -6,7 +6,7 @@ pipeline {
    
      stage('Install Dependencies') { 
         steps { 
-           echo 'building the application..'
+           echo 'building a application..'
         }
      }
      
